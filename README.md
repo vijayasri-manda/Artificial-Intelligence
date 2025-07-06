@@ -86,7 +86,7 @@ python gesture_control_cam.py
 
 ## 📬 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vijayasri-manda/)
+- 💼 [LinkedIn](www.linkedin.com/in/vijaya-sri-manda-399a56343)
 - 💻 [GitHub](https://github.com/vijayasri-manda)
 
 ---
